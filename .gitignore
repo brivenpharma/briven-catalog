@@ -1,0 +1,16 @@
+/node_modules
+/.next/
+/out/
+/build
+.DS_Store
+.env*
+*.tsbuildinfo
+next-env.d.ts
+*.jks
+*.keystore
+*.apk
+*.aab
+android/keystore.properties
+android/local.properties
+android/.gradle/
+android/app/build/
